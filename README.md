@@ -34,12 +34,12 @@ Algorithms were tested on five different randomized mazes for each grid size to 
 
 🔍 Key Findings
 
- A* provided the best balance of speed and optimality, consistently producing shortest paths with low runtime.
+- A* provided the best balance of speed and optimality, consistently producing shortest paths with low runtime.
     
-Dijkstra’s produced the same path quality as A* but was slower due to the absence of heuristic guidance.
+- Dijkstra’s produced the same path quality as A* but was slower due to the absence of heuristic guidance.
 
-Beam Search was faster but occasionally returned suboptimal paths depending on beam width.
+- Beam Search was faster but occasionally returned suboptimal paths depending on beam width.
 
-IDDFS reliably found a path but was inefficient due to redundant exploration and depth resets.
+- IDDFS reliably found a path but was inefficient due to redundant exploration and depth resets.
 
-Hill Climbing, while fast in successful runs, frequently failed due to its greedy nature and susceptibility to local minima.
+- Hill Climbing, while fast in successful runs, frequently failed due to its greedy nature and susceptibility to local minima.
