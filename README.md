@@ -8,8 +8,11 @@ This repository contains the code and writeup for my term project in CIS 730 - A
 
 **Included Files:**
     - FINAL REPORT.pdf — Complete project writeup
+    
     - pathfinding_algorithms.ipynb — Main Python notebook with all algorithm implementations and benchmarks
+    
     - FINAL PPT.pptx — Presentation slides
+    
     - README.txt — Project summary and submission link
 
 **GitHub Repository:**
